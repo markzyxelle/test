@@ -3,7 +3,7 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Hi Earth!</h1>
+	<h1>Hello World!</h1>
 	<img src="image.jpg"/>
 	<p>Mark Zyxelle N. Sicad, 2012-15832, AB-6L</p>
 </body>
