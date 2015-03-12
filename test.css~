@@ -1,4 +1,11 @@
 body{
+<<<<<<< HEAD
 background-color: green;
 color: red;
+font-family: "Comic Sans MS", cursive, sans-serif;
+=======
+background-color: black;
+color: white;
+font-family: "Lucida Console", Monaco, sans-serif;
+>>>>>>> ab-6l_sicad
 }
